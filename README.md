@@ -1,7 +1,3 @@
-<h1 align="center">
-Hi 👋, I'm Peter Nguyen
-</h1>
-
 <div align= "center">
   <img src="https://www.adgility.com.au/hs-fs/hubfs/advanced-insights-analystics-reporting-GIF.gif?width=1780&height=1080&name=advanced-insights-analystics-reporting-GIF.gif" style="display: block; margin-left: auto; margin-right: auto; width: 100%">
 </div>
@@ -10,58 +6,4 @@ Hi 👋, I'm Peter Nguyen
 **ANALYTICS, INSIGHTS, IMPACTS**
 
 My passion lies in deciphering data's hidden stories and leveraging analytics to drive insights and innovation. I don't just support my organization, I help it discovers what's next. 📊💡
-</p>
-
-<h2 align="left">💡 Connect with me:</h2>
-<p align="left">
-  <a href="https://www.linkedin.com/in/peternguyenin/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://platform.stratascratch.com/user/peterminator" target="_blank">
-    <img src="https://img.shields.io/badge/StrataScratch-Profile-00A79D?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAdVBMVEUAAAD///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////9jhTEsAAAAK3RSTlMAAQIDBAUGBwgJCgsMDQ8QERITFBUWFxgZGhscHR4fICEiIyQmJygpKiuzg1ZnAAAAPUlEQVR42jXJRw6AIAwEwG9r2+9fZbCllPw/6wJWiRMwCqbk9zMBoIRlpBKR6FQAoipxkAdRHWuMtk5+egAtI7AmZpjE9AAAAAElFTkSuQmCC" alt="StrataScratch logo" />
-  </a>
-</p>
-</a>
-</p>
-
-<h2> 📈 As a Data Enthusiast: </h2>
-
-- 🌱 I’m learning **AWS, Microsoft Fabrics**, and honing existing skills
-
-[![wakatime](https://wakatime.com/badge/user/894cf02a-9974-42d0-acde-603cdd98fe17.svg)](https://wakatime.com/@894cf02a-9974-42d0-acde-603cdd98fe17)
-![Working on](https://img.shields.io/badge/Working%20On-Building%20Data%20Pipelines-blue)
-![Learning](https://img.shields.io/badge/Learning-Advanced%20dbt%20&%20Jinja⚡-orange)
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=MarkPhamm)
-
-</div>
-
-### Things I'm working on this week
-<!--START_SECTION:waka-->
-
-```txt
-SQL         12 mins         ██████████████▓░░░░░░░░░░   58.76 %
-Terraform   6 mins          ████████▒░░░░░░░░░░░░░░░░   33.50 %
-HTML        1 min           ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 %
-```
-
-<!--END_SECTION:waka-->
-
-
-- 📫 How to reach me **hoangpnguyenwork@gmail.com**
-
-
-<h2 align="left">🌐 Languages and Tools:</h2>
-<p align="left"> 
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://logodix.com/logo/643525.jpg" alt="sqlserver" width="40" height="40"/> </a> 
-<a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Emblem.png" alt="sqlite" width="65" height="40"/> </a> 
-<a href="https://learn.microsoft.com/en-us/power-platform/guidance/icons" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/600px-New_Power_BI_Logo.svg.png?20210102182532" alt="gcp" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://posit.co/download/rstudio-desktop/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1280px-R_logo.svg.png" alt="R" width="50" height="40"/> </a>
-<a href="https://powerplatform.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://vectorseek.com/wp-content/uploads/2023/11/Microsoft-Power-Platform-Logo-Vector.svg-.png" alt="powerplatform" width="40" height="40"/> </a>
-<a href="https://docs.microsoft.com/en-us/office/vba/api/overview/" target="_blank" rel="noreferrer"> <img src="https://tse3.mm.bing.net/th/id/OIP.QGIw4vCmipP197xgZBKk7gHaDt?rs=1&pid=ImgDetMain&o=7&rm=3" alt="excel-vba" width="40" height="40"/> </a>
-<a href="https://www.alteryx.com/" target="_blank" rel="noreferrer"> <img src="https://vectorseek.com/wp-content/uploads/2023/11/Alteryx-Icon-Logo-Vector.svg--300x300.png" alt="alteryx" width="40" height="40"/> </a>
-<a href="https://www.uipath.com/" target="_blank" rel="noreferrer"> <img src="https://logowik.com/content/uploads/images/ui-path7967.jpg" alt="uipath" width="40" height="40"/> </a>
-<a href="https://airflow.apache.org/" target="_blank" rel="noreferrer"> <img src="https://media.zeemly.com/zeemly/product/apache-airflow.png" alt="airflow" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://www.sas.com/en_us/home.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/SAS_logo_horiz.svg/2560px-SAS_logo_horiz.svg.png" alt="sqlite" width="60" height="30"/> </a> 
 </p>
