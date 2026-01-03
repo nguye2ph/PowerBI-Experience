@@ -3,14 +3,6 @@ April 2023: Having already had extensive exposure to Tableau, I decided to tackl
 
 June 2023: Afterwards, I participated in another Analytics Challenge where I built a KPI dashboard to help a shipping company track critical performance metrics.
 
-August 2023: After a Summer internship with the AGV Platform team, I started as a part-time intern for the Procter and Gamble grooming team, 
-
-
-
-
-
-
-
-
+July 2023: After completing a summer internship across two teams, I continued as a part-time intern on the Procter & Gamble Grooming team, where I spearheaded the harmonization of multiple data sources into a single Power BI dashboard. As the sole data analyst working alongside a data engineer and a data scientist, I made a significant impact—my mentor noted that they had “never seen an intern steer the direction of an entire team like this and even got visibility from the grooming CEO" 
   
 </p>
