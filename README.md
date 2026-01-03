@@ -14,7 +14,7 @@ April 2024: While interning at Fifth Third Bank, I studied and passed the certif
 https://learn.microsoft.com/api/credentials/share/en-us/63960515/323C8BD45E7D882F?sharingId=2BB4BDEEF3C8C235
 
 ![ADA Internship](<images/Fifth Third Bank Cincinnati Outing.jpg>)
-
+[Fifth Third Bank Team Outing]
 
 
 
