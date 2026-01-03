@@ -36,8 +36,8 @@ It has been an absolute blast working with you the past few months. I have seen 
 You bring a fun, enthusiastic energy to the team that will be missed – please stay in touch!
  -Stephen
  
-Peter – It was so great getting to meet and know you over the last few months. To see how much you’ve accomplished and grown in your short time here, we truly are so excited to see where you go! Keep up the hard work, and please keep in touch!
- - Casey
+Peter – It was so great getting to meet and know you over the last few months. To see how much you’ve accomplished and grown in your short time here, we truly are so excited to see where you go! Keep up the hard work, and please keep in touch! 
+-Casey
 
 Hey Peter, time flies, I love having you on our team and it’s been a pleasure working with you and learning about your talents and engagement. I wish you the best on your next adventure! 
 -Chengcheng
