@@ -1,1 +1,964 @@
 
+
+Data Stories Gallery
+
+Excel comma separated values: csv
+—load csv within power bi and tableau for this
+
+To undo in power BI 
+Hit the x … 
+
+Search slicer…
+Click the … on the slicer and click search or hit ctrl F ….
+Doesn’t work for numeric data?
+
+
+
+
+-hiding show totals in power bi:
+
+
+Select a color and convert to hex code:
+https://imagecolorpicker.com/en
+
+-Export Power BI reports to Power Points
+-how to change data source in power bi
+https://www.youtube.com/watch?v=mqFA9t482oM
+
+-write all thing I learned in the Maven Dashboard
+
+
+Have to do manually and add each csvs. How to automate this??
+
+
+
+
+
+Vertical page navigator by adjusting grid layout:
+
+
+
+
+
+
+Change page size
+
+
+Power BI - How to add Background Images and adjust visual transparency
+
+
+
+
+
+
+
+
+
+
+
+
+
+Add spacing to bar graphs in Power BI
+
+
+
+Filtering in the data view 
+–affects the data in the visualization 
+Doesn’t change the source data
+—------------------------
+Only work email address works for Power BI
+So you can share within an organization you are in
+/Office 365 E3 or Office 365 E5 – free trial
+
+
+Right click a value of a chart and it navigates you to the visual …. Of that chart … Because the on-object feature is in preview, you need to turn it on. You'll also be turning on the new Visualizations and Format pane functionality changes. See the updated Format and Visualizations panes in Power BI article for details.
+In Power BI Desktop, select File > Options and settings > Options > Preview Features > On-object interaction.
+
+
+—-------------------------------------------------------
+Stylistic option - Power BI
+
+Great Manchester - Text Wrap is on
+—---------Alt text – used for people with certain disabilities
+
+
+Collapsing ribbons
+
+Format and align/distribute
+
+
+Bring forward bring 1 instance at a time
+Bring to front brings all the way to the front
+—--- Format Painter
+
+
+
+
+Column tools when clicking on columns — default summarization 
+—------ 
+If you are formatting dates, you are formatting the defaults which will be used in all visualizations 
+However if in a particular visualizations and a particular column, you can change the number of decimal places
+Custom number and date formatting:
+
+
+
+
+Go to the relationship tab,
+Custom formatting in the property panes
+
+
+It is the same as expand next level
+
+Drill Up to go up the hierarchy
+— show next levels 
+Two down arrows 
+—- just show one level / of all data. Ex: Quarter data from all time frame
+
+Which will be exported as a csv - right click and hit export 
+
+All files include everything (csv etc) vs all excel files
+
+
+Drill down drills to one specific element when selected
+— and it will keep the drill down unless you hit on it again
+—------------Visual table
+
+More useful for charts because it lets you see the underlying data
+Matrixes allow you to drill down the hierarchy whereas tables does not
+—---
+
+
+Date and region name on the same axis
+—you can drill down on 2006 for example and then see the quarters within 2006
+
+
+Switch themes for reports
+
+Not enough themes? You can go to the theme gallery to choose from a variety of different themes
+
+Browse for themes use a file — with hex codes
+—--------------------------- 
+Customize themes
+
+
+Continuous vs categorical (1995 to 2015 or 1995 and each separate year)
+
+Label density: 54% 
+
+Plot area background to add background pictures
+
+Format  — edit interactions - for that particular view only
+—--------- As default - highlight is enabled - although it might not show - 
+Filter is enabled so that you can use other visualizations to filter 
+None mean that specific view won’t be affected
+
+None doesn’t affect lower visualization
+
+
+Sometimes these interactions might not show because there’s not enough vertical space between the visualizations
+
+Using ctrl key to also select South Yorkshire
+— cannot use shift to select a range though
+-unselect edit interactions to remove the icons — but the interactions are still there
+
+– how to make exact dates in Power BI similar to Tableau
+
+
+Section 17: Part 2 - Level 5:
+Blank Query
+
+
+
+Undo an action or change it
+
+
+
+
+365 = how many rows, 
+
+
+
+
+100% stacked column charts are different than stacked column chart
+
+Difference between new columns and new measures?
+
+—- how to sort ascending in power bi (no options to sort like in the table)
+
+
+
+
+Sort when column is not available then add to the tooltip
+
+
+
+….
+Can’t drag to create values in power bi like in Tableau but you can type ‘ ‘ and choose the values
+
+The date order is messed up
+
+
+
+
+
+Some doesn’t have it
+
+
+
+
+
+
+
+Visual tool tip … page information … page underneath type
+
+
+
+To copy text from tableau to power bi, choose a generic font like calibri
+…..
+Show hide button in power bi using bookmarks … note that you have to separate it to two buttons
+
+
+
+
+
+Format without legend
+
+
+
+
+—-------dynamic zone visibility in power bi
+-use bookmarks but this is not great for maintenance
+
+Layer order
+
+
+—------------------------------------
+Sometimes to change the height and width of the chart in power bi
+You have to make sure that you leave some space underneath the chart in order for increasing the height to work
+
+
+The all visuals will taken to affect. I had it selected to selected visuals initially so it didn’t work since it would be a one time selection
+
+
+
+
+Create hypothesis
+
+
+Switch the field to base on while preserving the conditional formatting
+—duplicate first to reuse the formatting
+
+-add animation to power bi? 
+
+Blue tick marks are power bi - certified
+
+
+There’s no data view
+
+
+Had to be text to work
+
+
+
+Change to date to be able to sort ascending
+
+You can copy other charts from other power bi reports into the current one
+-place all charts into the same page then view and reorder them
+
+Lock aspect ratio to : keep the consistent when resizing
+
+
+
+—---
+Make it so that even if there are no values in that period it won’t be filtered out
+
+
+
+
+
+Measure tool to change this to %
+
+
+The Time (UTC) has many times within the same dates so it didn’t work
+
+
+
+
+
+
+
+
+
+How to view the arguments of the functions in Power BI
+
+
+
+
+
+
+What is Power BI template and how to replace connections??
+
+
+
+Shape Map
+
+— combo charts in Power BI..
+Field parameter:
+
+
+
+.. unrelated … clipchamp for screen capturing??
+
+
+
+
+
+To load the data from the connections file —- choose direct query 
+
+acc X acc_y acc z AccelerometerMeasurementNumber BarometerMeasurementNumber BarometerP BarometerT ButtonPressed device_id ESP32StatusUpdate FanSpeed gyr_y gyr_z HeadTvpeFitted imu_temp LastTreatmentMode LastTreatmentPower LedPower ModeButtonPressedTime PowerSetting ResettableFaultID
+
+Sample SCS1Percent SCS2Percent session id ShotCount STS1Normalized STS2Normalized StsTemperature TimeButtonPressed Timestamp
+
+
+
+
+
+
+
+
+To remove multiple selections, click on cut after multi-selecting
+
+
+
+Basically duplicating … create a parameter first thougha and copy the formulas from the one you want to duplicate
+
+Use ctrl + shift to make this quicker to delete … still have to use cut though
+
+
+
+
+What is the difference between layer order and tab order
+
+
+
+
+
+
+
+
+
+Optimize tab can help you optimize workbook speed
+—if the workbook runs too slow, you can open a separate task to multi-task and saves time
+
+
+
+Format measure to percentages in Power BI
+
+
+
+
+
+
+…
+
+
+
+
+
+
+
+
+
+
+IMU Temp: 
+
+
+
+—-
+
+
+
+
+
+
+
+
+
+
+
+-prebuilt power bi visualizations
+
+
+
+
+
+
+
+
+
+Load more to ensure all data is showing … in this case the column results
+
+
+
+
+
+
+
+Filter and then parse:
+
+
+
+
+
+
+
+
+Area chart vs stacked area chart. Stacked area charts doesn’t have labels on the outside. Only inside
+
+Considering using axis
+If there are too many data labels
+
+
+You can only do vertical texts with shapes
+
+
+
+
+
+Doesn’t really work.
+
+How to change data type …
+
+
+
+
+
+Use median in this case
+
+
+
+
+
+
+Delete?
+
+I’m missing the name of 
+. that’s why the picture above is wrong. 
+
+
+
+— you can also use format painter to paint the conditional formatting of the columns
+
+
+There are two different backgrounds. One in the visual and one in general (only the general one works in this case)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+If 50 or above for the transparency then it won’t have the canvas border. 49 or below then it shows the outlines like the pic above. 
+
+Responsive – or not would allow you to change the x-axis labels size for the trend over time, in this case
+
+Max area width affects the labels in this case
+
+
+Remove a visual to reverse the get more visuals. 
+
+
+
+
+
+
+
+Click the filter up at the top to turn on the filter pane
+
+
+
+
+
+
+
+
+
+
+
+Drag this circle shit to chage the hex color. Also change manually for red green and blue
+
+
+
+Difference between this card vs the card with lightning
+
+
+Merge queries as new
+
+
+
+
+
+
+
+There can be only one white arrow to sort
+
+—--------
+
+Values only versus values & totals
+
+
+
+
+Sort multiples
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Change visual to stacked bars would solve it
+
+
+
+
+
+
+
+
+
+
+—---
+Write R script and then: 
+use chatgpt to convert r script to power bi dax expressions -> better way to prompt engineer
+
+
+
+Entering data
+
+
+—-----------
+
+Format painting carries the entire parameter format over
+
+
+
+
+Apply all slicers button
+
+
+Only apply when you make the selections
+
+
+—embedding power bi: click on share and then click on powerpoint
+
+
+
+
+
+
+Fit to width vs fit to page. Fit to width might cause issues if you hide the filter panel etc as now the width room is larger so it overflows the bottom view
+
+
+
+
+
+
+
+
+
+
+
+
+Detect data type in power query
+
+
+https://learn.microsoft.com/en-us/power-bi/create-reports/power-bi-images-tables
+
+
+
+
+
+
+
+
+let
+     BinaryToPbiImage = (BinaryContent as binary) as text =›
+let
+     Base64 = "data: image/jpeg;base64, " & Binary.ToText (BinaryContent, BinaryEncoding. Base64)
+in
+     Base64
+in
+     BinaryToPbiImage
+
+
+
+To replicate without starting from scratch in thef case of the live data set connections then simply paste the visuals into another report with the columns already named and manipulated in the same way
+—-----------------------
+Unpivoting a table in power bi:
+
+
+Kinda similar to pivoting to a long format in R
+https://radacad.com/pivot-and-unpivot-with-power-bi
+This would be done within the transform data tab in Power Bi
+
+
+
+
+Commenting on Power BI dax expressions with the – –
+
+
+
+
+
+
+
+
+
+Additional filters
+
+
+
+Buttons options:
+
+
+
+Visual tooltip for viewing info
+
+
+
+
+
+Adding image url and use them as tooltip.
+
+
+Sync slicer and sync tooltips
+
+
+Conditional format column of a table by right clicking and hit data bars
+
+
+
+
+
+
+
+
+
+
+
+
+
+Color multiple with the parameters. 
+
+When you rename the datasource or replace it with one with the same columns. The colors for the parameters might be gone so do the step above to save time
+
+
+
+
+
+
+
+
+Change padding for maps
+
+
+
+
+Hit more color to prompt it to the recent colors
+
+
+Change axis type to continuos - fucking wild
+
+
+
+
+
+Zoom slider and don’t summarize??? What’s the difference
+
+
+
+
+
+
+
+
+
+
+Change to cross filtering
+
+
+
+
+Maintaining layer orders
+
+
+
+
+
+
+Reset to defaults to enable dynamic titles again
+
+
+
+Text wrapping allows you to view the fill words and for it to go down a line
+
+
+Embedding pdf in power bi:
+https://www.google.com/search?q=embed+pdf+document+in+power+bi&rlz=1C1GCEB_enUS1059US1059&oq=embed+pdf+document+in+power+bi&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIICAEQABgWGB4yCAgCEAAYFhgeMg0IAxAAGIYDGIAEGIoFMg0IBBAAGIYDGIAEGIoFMg0IBRAAGIYDGIAEGIoF0gEJMTQyNTlqMWoxqAIAsAIA&sourceid=chrome&ie=UTF-8#kpvalbx=_N3yPZeuaJuKt5NoP78uouAo_25
+
+
+
+
+
+
+Visual header tooltips
+https://www.getpowerhoused.com/blog/are-you-using-tooltips-in-your-power-bi-chart-headers
+
+
+
+
+
+———
+Drill through to view another page based on the 
+based on the selection by right clicking. New yorkshire in the example below. Note that region name has to be added as a drill through in the other page
+
+
+
+
+Power Query Editor - View - Preview  
+
+
+
+Transform vs Add column in power query editor
+
+
+transform work with existing column
+Add column make the transformation in a new column and keeps the original column
+
+
+
+
+Filtering or “slicering” data in the power query editor preserves the data. In the model view of the report then it doesn’t preserve the filtering. Only in the power query editor
+
+This is a permanent change that will be register into the steps - unlike filtring in an excel sheet for example
+
+
+Right clicking to get data - another way
+
+
+
+Keeping and removing rows after sorting:
+
+
+
+Merge vs append queries: 
+
+
+
+
+Merging queries:
+
+
+Check join kind
+Merge queries expand the table horizontally (might be exception with outer joins etc)
+Where as append queries expand the table vertically (usually the column names are the same - think of it more like a union in tableau)
+Merge add columns – append add rows
+
+
+Can merge as new or  just merge queries only
+
+
+
+
+Unhiding hidden tables
+
+
+
+Drag from one table to another to create relationships:
+
+
+
+
+For numbers you can do adding subtracting etc.
+
+
+
+
+Measure doesn’t give you an individual row , it gives the totality of the data. Where as columns give individual rows
+
+
+
+
+
+
+
+Hiding and unhiding fields?
+
+
+Power query - right click on column —- transform — clean, trim etc. 
+
+
+Creating folders for power queries
+
+
+
+
+
+Using user
+
+
+
+
+
+
+
+
+
+
+
+Focus mode: to view visual in a larger view
+
+
+
+
+
+On-object interaction
+
+
+
+
+
+
+
+
+Convert from Q&A to standard visualizatoin
+
+
+
+
+
+
+Allow you to add income etc.
+Median age etc. 
+
+
+Hierarchies:
+
+
+
+It’s the arrows that go down and up
+
+
+Right click and create hierarchies:
+
+Change levels here:
+
+
+
+
+
+
+You cannot categorized items as part of a hierarchy or in a hierarchy
+
+
+Quick measure:
+
+
+
+
+Forecast:
+
+
+
+Error Bar:     - like margin of errors??
+
+
+
+Removing outliers -
+There is no secret to removing outliers 
+You just have to determine visually and then 
+Restrict them out
+
+
+Clustering
+
+
+
+
+
+
+
+
+
+
+Anomaly detection: only works on line charts visuals   —- also only works if there is only one line
+
+
+
+
+
+
+
+
+Clicking on smart narrative in the visualization pane will give you a narrative of all the visualizations within the page 
+
+
+If you right click however then it will just provide a smart narrative for that visual
+
+
+Smart narrative will also change with slicers and so on
+
+
+
+
+Can also add new values that change interactively
+
+
+
+
+Groupings and binnings
+
+
+
+
+
+
+
+
+New group - bin type
+
+Would be useful if I had done it for the overtime data within a session
+
+Not considering as an influencer but takes into account for granularity — or the amount of data to investigate
+
+
+
+
+
+
+Add to page to add visualizations to the page:
+
+
+
+
+
+
+Power bi report builder - paginated report 
+
+
+
