@@ -1,6 +1,7 @@
 April 2023: Having already had extensive exposure to Tableau, I decided to tackle the Maven Analytics Family Leave challenge in Power BI and gain my first hands-on experience with the tool outside of Udemy. This dashboard analyzes paid parental leave policies across 1,600+ companies and 46 industries, highlighting disparities between maternity and paternity leave 
 
 ![Maven Family Leave Challenge](<images/Maven Family Leave.png>)
+https://www.linkedin.com/posts/peternguyenin_phuc-nguyens-data-analytics-project-maven-activity-7056014011741454336-evpi?utm_source=share&utm_medium=member_desktop&rcm=ACoAADHRP2sBU6EJ6oZ7Q6S4t6R_vok9O1hy_Ko
 
 
 June 2023: Afterwards, I participated in another Analytics Challenge where I built a KPI dashboard to help a shipping company track critical performance metrics.
