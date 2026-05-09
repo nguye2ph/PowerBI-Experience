@@ -1,0 +1,231 @@
+### **1. Benefits of self‑service BI**
+- Empowers business users  
+- Reduces dependency on IT  
+- Faster insights and decision‑making  
+
+### **2. Other BI platforms vs Power BI**
+- Tableau, Qlik, Looker  
+- Power BI easier for Excel users  
+- Lower cost and strong Microsoft integration  
+
+### **3. Risks/downsides of Power BI**
+- Locked into Microsoft ecosystem  
+- Desktop only on Windows  
+- Sharing requires Pro licenses  
+
+### **4. Immediate value Power BI provides**
+- Interactive dashboards  
+- Fast insights  
+- Great for sales, finance, customer analytics  
+
+### **5. Integration with Microsoft products**
+- Excel, Azure, SQL Server, SharePoint, Teams  
+- Easy data import and embedding  
+
+### **6. Key features of Power BI**
+- AI insights  
+- Real‑time dashboards  
+- Strong data modeling  
+- Many connectors  
+
+### **7. What is Power Query?**
+- ETL tool  
+- Cleans, transforms, merges data  
+
+### **8. Types of filters**
+- Slicers  
+- Visual/page/report filters  
+- Drillthrough filters  
+
+### **9. Report vs Dashboard**
+- Reports = multi‑page, built in Desktop  
+- Dashboards = single page, tiles, built in Service  
+
+### **10. Refreshing data in Service**
+- On‑prem data requires gateway  
+- Cloud sources refresh directly  
+
+### **11. Sharing reports**
+- Publish to Service  
+- Share links, Teams, SharePoint  
+- Requires proper permissions  
+
+### **12. Free vs Pro vs Premium**
+- Free: no sharing  
+- Pro: sharing + collaboration  
+- Premium: dedicated capacity, large models  
+
+### **13. Workspaces**
+- Organize datasets/reports  
+- Manage permissions  
+- Enable team collaboration  
+
+---
+
+## **🟩 DAX Interview Questions (14–20)**
+
+### **14. Functions vs expressions vs variables**
+- Functions = predefined logic  
+- Expressions = formulas  
+- Variables = store intermediate results  
+
+### **15. Measure vs Calculated Column**
+- Measures = dynamic, filter‑dependent  
+- Columns = static, row‑level  
+
+### **16. Using specific DAX functions**
+- Know common functions: SUMX, CALCULATE, FILTER, RANKX  
+
+### **17. Avoiding circular dependencies**
+- Avoid mutual references  
+- Use CALCULATE carefully  
+
+### **18. CALCULATE()**
+- Changes filter context  
+- Core of advanced DAX  
+
+### **19. SUMX**
+- Row‑by‑row iteration  
+- Useful for calculated totals  
+
+### **20. ALL vs REMOVEFILTERS**
+- ALL removes filters on specific columns/tables  
+- REMOVEFILTERS clears all filters  
+
+---
+
+## **🟧 Technical Power BI Questions (21–31)**
+
+### **21. Star schema**
+- Fact table + dimension tables  
+- Best practice for modeling  
+
+### **22. Cardinality**
+- One‑to‑many, many‑to‑one, one‑to‑one, many‑to‑many  
+- Prefer unique keys  
+
+### **23. Single vs bi‑directional relationships**
+- Single = recommended  
+- Bi‑directional = risk of ambiguity  
+
+### **24. Issues with many‑to‑many**
+- Duplicate results  
+- Granularity mismatch  
+
+### **25. DirectQuery**
+- Real‑time queries  
+- Slower performance  
+- Use for large datasets  
+
+### **26. Composite Models**
+- Mix Import + DirectQuery  
+- Balance performance + real‑time  
+
+### **27. Incremental Refresh**
+- Refresh only new data  
+- Ideal for large datasets  
+
+### **28. Standard vs Personal Gateway**
+- Personal = tied to user  
+- Standard = shared, supports DirectQuery  
+
+### **29. Choosing a gateway machine**
+- Consider concurrent users  
+- Real‑time load  
+
+### **30. Import + DirectQuery in same gateway**
+- Possible but not ideal  
+- Best practice: separate gateways  
+
+### **31. Gateway offline impact**
+- Refresh fails  
+- Requires redundancy  
+
+---
+
+## **🟨 Scenario‑Based Questions (32–35)**
+
+### **32. Importing many files**
+- Use folder connector  
+- Requires consistent file structure  
+
+### **33. Optimizing big data performance**
+- Disable auto date/time  
+- Remove unused columns  
+- Filter/aggregate historical data  
+
+### **34. Merging inconsistent systems**
+- Use Power Query  
+- Standardize formats  
+- Apply conditional logic  
+
+### **35. Strict data access controls**
+- Row‑Level Security  
+- Workspace permissions  
+- Governance policies  
+
+---
+
+## **🟥 Advanced Power BI Questions (36–40)**
+
+### **36. Avoiding bi‑directional filters**
+- Use visual filters  
+- Use CALCULATE to override context  
+
+### **37. What‑if parameters**
+- User‑adjustable values  
+- Scenario modeling  
+
+### **38. Anomaly detection**
+- AI‑based outlier detection  
+- Works in line charts  
+
+### **39. Smart Narratives**
+- Auto‑generated text insights  
+- Updates with filters  
+
+### **40. Optimizing large models**
+- Remove unused data  
+- Prefer measures over columns  
+- Use aggregations  
+- Use variables in DAX  
+
+---
+
+## **🟫 Experienced Professional Questions (41–45)**
+
+### **41. Challenging project example**
+- Standardizing metrics  
+- Building unified data model  
+- Phased rollout  
+
+### **42. Data governance policies**
+- RLS  
+- Workspace roles  
+- Sensitivity labels  
+- Audit logs  
+
+### **43. Migrating legacy reports**
+- Assess → prioritize → redesign → train users  
+
+### **44. Reducing data leakage risk**
+- RLS  
+- Sensitivity labels  
+- Restrict external sharing  
+- Monitor logs  
+
+### **45. Balancing performance vs depth**
+- Aggregations  
+- Incremental refresh  
+- Executive dashboards + detailed reports  
+
+---
+
+If you want, I can also create:
+
+- A **condensed cheat sheet**  
+- A **PDF‑ready formatted version**  
+- A **flashcard set**  
+- A **mock interview** using these questions  
+
+Which one should I build for you next — the cheat sheet, the flashcards, or a mock interview?
